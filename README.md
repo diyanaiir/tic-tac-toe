@@ -1,16 +1,16 @@
 # Multiplayer Tic-Tac-Toe
 
-This is a multiplayer Tic-Tac-Toe game built using WebSocket. The game allows two players to play Tic-Tac-Toe in real-time.
+A WebSocket-based multiplayer Tic-Tac-Toe game that enables two players to compete in real-time.
 
 ## Features
 
 - Real-time multiplayer gameplay
-- Simple and intuitive user interface
-- Responsive design for mobile and desktop
+- Optimized for both mobile and desktop
+- Simple and user-friendly interface
 
 ## Output image
 
-![image of the app](tic-tac-toe-image.png)
+![image](tic-tac-toe-image.png)
 
 ### Prerequisites
 
